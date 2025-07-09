@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @juanserranos
 - 👀 I’m interested in UI/UX development, database arhitecture, ML, and AI.
 - 📚 I'm proficient in Java, Python, PHP, HTML, CSS... 
-- 🌱 I’m currently learning Javascript.
+- 🌱 I'm currently developing in C#
 - 💞️ I’m looking to collaborate on 2D Platformer development (Games)... 
 - 📫 How to reach me: on Twitter @juanserranos
 
